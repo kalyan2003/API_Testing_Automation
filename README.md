@@ -2,17 +2,6 @@ echo "# API Automation Project - Contact List App
 
 This project automates the testing of a Contact List web application's RESTful APIs hosted at https://thinking-tester-contact-list.herokuapp.com using **Python**, **Pytest**, and the **Requests** library.
 
-## Project Structure
-
-\`\`\`
-selenium_project_1/
-├── test_api.py               # Test cases for user & contact endpoints
-├── utils/
-│   └── apis.py               # API wrapper class (GET, POST, PATCH, etc.)
-├── data/
-│   └── contact_data.py       # Functions to generate dynamic user/contact data
-├── requirements.txt          # List of required Python packages
-\`\`\`
 
 ## Features Tested
 
